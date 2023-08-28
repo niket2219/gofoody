@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #ffc43d;
+}
+
+.text {
+  text-shadow: 5px 5px 0px #c78283, 10px 10px 0px #f3d9dc, 15px 15px 0px #46b59b,
+    20px 20px 0px #017e7f, 25px 25px 0px #744253, 30px 30px 0px #560213,
+    35px 35px 0px #77031b, 40px 40px 0px #910421, 45px 45px 0px #ffc43d;
+}
